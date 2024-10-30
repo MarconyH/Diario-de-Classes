@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diário de Notas</string>
+    <string name="label_pesquisa">Pesquisar</string>
+    <string name="label_textview">Nome</string>
+    <string name="label_add">Atualizar</string>
+    <string name="label_remove">Excluir</string>
+</resources>
